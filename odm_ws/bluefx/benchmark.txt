@@ -1,0 +1,6 @@
+OpenSfM runtime: 56.453522 seconds
+Meshing runtime: 42.868372 seconds
+Texturing runtime: 2.90738 seconds
+Georeferencing runtime: 0.000331 seconds
+Dem runtime: 0.000323 seconds
+Orthophoto runtime: 0.943601 seconds

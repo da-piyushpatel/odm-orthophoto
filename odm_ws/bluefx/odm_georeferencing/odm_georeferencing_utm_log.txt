@@ -1,0 +1,6 @@
+imagesPath was set to: /home/ppatel/clutter/odm/odm_ws/bluefx/images/
+imageListFile was set to: /home/ppatel/clutter/odm/odm_ws/bluefx/img_list.txt
+outputCoordFile was set to: /home/ppatel/clutter/odm/odm_ws/bluefx/odm_georeferencing/coords.txt
+logFile_ was set to: /home/ppatel/clutter/odm/odm_ws/bluefx/odm_georeferencing/odm_georeferencing_utm_log.txt
+Error in OdmExtractUtm:
+Image9.jpg: No Exif data found in the file

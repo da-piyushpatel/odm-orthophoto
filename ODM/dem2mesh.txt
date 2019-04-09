@@ -1,0 +1,246 @@
+Running with parameters:
+	-inputFile /home/ppatel/clutter/odm/odm_ws/odm_data_aukerman-master/odm_meshing/tmp/mesh_dsm.tif
+	-outputFile /home/ppatel/clutter/odm/odm_ws/odm_data_aukerman-master/odm_meshing/odm_25dmesh.ply
+	-maxVertexCount 100000
+Raster Size is 2760x2104
+Extent is (-188.860641, 178.633359), (-126.185287, 153.962313)
+NoData value: -9999
+Description: max
+Reading raster...
+Total vertices before simplification: 5807040
+Blocks depth: 2
+Splitting area in 16
+Block size is 690, 526
+Processing block (0,0)
+Sampled 723450 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (0,1)
+Sampled 724828 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (0,2)
+Sampled 724828 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (0,3)
+Sampled 724828 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (1,0)
+Sampled 724500 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (1,1)
+Sampled 725880 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (1,2)
+Sampled 725880 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (1,3)
+Sampled 725880 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (2,0)
+Sampled 724500 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (2,1)
+Sampled 725880 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (2,2)
+Sampled 725880 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (2,3)
+Sampled 725880 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (3,0)
+Sampled 724500 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (3,1)
+Sampled 725880 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (3,2)
+Sampled 725880 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (3,3)
+Sampled 725880 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Merge step...
+Reading /home/ppatel/clutter/odm/odm_ws/odm_data_aukerman-master/odm_meshing/odm_25dmesh.ply.0-0.bin
+Reading /home/ppatel/clutter/odm/odm_ws/odm_data_aukerman-master/odm_meshing/odm_25dmesh.ply.0-1.bin
+Reading /home/ppatel/clutter/odm/odm_ws/odm_data_aukerman-master/odm_meshing/odm_25dmesh.ply.0-2.bin
+Reading /home/ppatel/clutter/odm/odm_ws/odm_data_aukerman-master/odm_meshing/odm_25dmesh.ply.0-3.bin
+Reading /home/ppatel/clutter/odm/odm_ws/odm_data_aukerman-master/odm_meshing/odm_25dmesh.ply.1-0.bin
+Reading /home/ppatel/clutter/odm/odm_ws/odm_data_aukerman-master/odm_meshing/odm_25dmesh.ply.1-1.bin
+Reading /home/ppatel/clutter/odm/odm_ws/odm_data_aukerman-master/odm_meshing/odm_25dmesh.ply.1-2.bin
+Reading /home/ppatel/clutter/odm/odm_ws/odm_data_aukerman-master/odm_meshing/odm_25dmesh.ply.1-3.bin
+Reading /home/ppatel/clutter/odm/odm_ws/odm_data_aukerman-master/odm_meshing/odm_25dmesh.ply.2-0.bin
+Reading /home/ppatel/clutter/odm/odm_ws/odm_data_aukerman-master/odm_meshing/odm_25dmesh.ply.2-1.bin
+Reading /home/ppatel/clutter/odm/odm_ws/odm_data_aukerman-master/odm_meshing/odm_25dmesh.ply.2-2.bin
+Reading /home/ppatel/clutter/odm/odm_ws/odm_data_aukerman-master/odm_meshing/odm_25dmesh.ply.2-3.bin
+Reading /home/ppatel/clutter/odm/odm_ws/odm_data_aukerman-master/odm_meshing/odm_25dmesh.ply.3-0.bin
+Reading /home/ppatel/clutter/odm/odm_ws/odm_data_aukerman-master/odm_meshing/odm_25dmesh.ply.3-1.bin
+Reading /home/ppatel/clutter/odm/odm_ws/odm_data_aukerman-master/odm_meshing/odm_25dmesh.ply.3-2.bin
+Reading /home/ppatel/clutter/odm/odm_ws/odm_data_aukerman-master/odm_meshing/odm_25dmesh.ply.3-3.bin
+Simplifying final mesh...
+Writing to file...  done!
+Running with parameters:
+	-inputFile /home/ppatel/clutter/odm/odm_ws/second_proj/odm_meshing/tmp/mesh_dsm.tif
+	-outputFile /home/ppatel/clutter/odm/odm_ws/second_proj/odm_meshing/odm_25dmesh.ply
+	-maxVertexCount 100000
+Raster Size is 1289x1416
+Extent is (-107.475433, 64.154917), (-99.852097, 88.688303)
+NoData value: -9999
+Description: max
+Reading raster...
+Total vertices before simplification: 1825224
+Blocks depth: 1
+Splitting area in 4
+Block size is 644, 708
+Processing block (0,0)
+Sampled 909202 faces, target is 75000
+Simplifying...
+Writing to binary file... done!
+Processing block (0,1)
+Sampled 910488 faces, target is 75000
+Simplifying...
+Writing to binary file... done!
+Processing block (1,0)
+Sampled 910616 faces, target is 75000
+Simplifying...
+Writing to binary file... done!
+Processing block (1,1)
+Sampled 911904 faces, target is 75000
+Simplifying...
+Writing to binary file... done!
+Merge step...
+Reading /home/ppatel/clutter/odm/odm_ws/second_proj/odm_meshing/odm_25dmesh.ply.0-0.bin
+Reading /home/ppatel/clutter/odm/odm_ws/second_proj/odm_meshing/odm_25dmesh.ply.0-1.bin
+Reading /home/ppatel/clutter/odm/odm_ws/second_proj/odm_meshing/odm_25dmesh.ply.1-0.bin
+Reading /home/ppatel/clutter/odm/odm_ws/second_proj/odm_meshing/odm_25dmesh.ply.1-1.bin
+Simplifying final mesh...
+Writing to file...  done!
+Running with parameters:
+	-inputFile /home/ppatel/clutter/odm/odm_ws/proj3/odm_meshing/tmp/mesh_dsm.tif
+	-outputFile /home/ppatel/clutter/odm/odm_ws/proj3/odm_meshing/odm_25dmesh.ply
+	-maxVertexCount 100000
+Raster Size is 2776x2101
+Extent is (-189.378693, 180.384507), (-126.122070, 153.731130)
+NoData value: -9999
+Description: max
+Reading raster...
+Total vertices before simplification: 5832376
+Blocks depth: 2
+Splitting area in 16
+Block size is 694, 525
+Processing block (0,0)
+Sampled 726264 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (0,1)
+Sampled 727650 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (0,2)
+Sampled 727650 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (0,3)
+Sampled 727650 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (1,0)
+Sampled 727312 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (1,1)
+Sampled 728700 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (1,2)
+Sampled 728700 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (1,3)
+Sampled 728700 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (2,0)
+Sampled 727312 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (2,1)
+Sampled 728700 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (2,2)
+Sampled 728700 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (2,3)
+Sampled 728700 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (3,0)
+Sampled 727312 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (3,1)
+Sampled 728700 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (3,2)
+Sampled 728700 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Processing block (3,3)
+Sampled 728700 faces, target is 18750
+Simplifying...
+Writing to binary file... done!
+Merge step...
+Reading /home/ppatel/clutter/odm/odm_ws/proj3/odm_meshing/odm_25dmesh.ply.0-0.bin
+Reading /home/ppatel/clutter/odm/odm_ws/proj3/odm_meshing/odm_25dmesh.ply.0-1.bin
+Reading /home/ppatel/clutter/odm/odm_ws/proj3/odm_meshing/odm_25dmesh.ply.0-2.bin
+Reading /home/ppatel/clutter/odm/odm_ws/proj3/odm_meshing/odm_25dmesh.ply.0-3.bin
+Reading /home/ppatel/clutter/odm/odm_ws/proj3/odm_meshing/odm_25dmesh.ply.1-0.bin
+Reading /home/ppatel/clutter/odm/odm_ws/proj3/odm_meshing/odm_25dmesh.ply.1-1.bin
+Reading /home/ppatel/clutter/odm/odm_ws/proj3/odm_meshing/odm_25dmesh.ply.1-2.bin
+Reading /home/ppatel/clutter/odm/odm_ws/proj3/odm_meshing/odm_25dmesh.ply.1-3.bin
+Reading /home/ppatel/clutter/odm/odm_ws/proj3/odm_meshing/odm_25dmesh.ply.2-0.bin
+Reading /home/ppatel/clutter/odm/odm_ws/proj3/odm_meshing/odm_25dmesh.ply.2-1.bin
+Reading /home/ppatel/clutter/odm/odm_ws/proj3/odm_meshing/odm_25dmesh.ply.2-2.bin
+Reading /home/ppatel/clutter/odm/odm_ws/proj3/odm_meshing/odm_25dmesh.ply.2-3.bin
+Reading /home/ppatel/clutter/odm/odm_ws/proj3/odm_meshing/odm_25dmesh.ply.3-0.bin
+Reading /home/ppatel/clutter/odm/odm_ws/proj3/odm_meshing/odm_25dmesh.ply.3-1.bin
+Reading /home/ppatel/clutter/odm/odm_ws/proj3/odm_meshing/odm_25dmesh.ply.3-2.bin
+Reading /home/ppatel/clutter/odm/odm_ws/proj3/odm_meshing/odm_25dmesh.ply.3-3.bin
+Simplifying final mesh...
+Writing to file...  done!
+Running with parameters:
+	-inputFile /home/ppatel/clutter/odm/odm_ws/projC/odm_meshing/tmp/mesh_dsm.tif
+	-outputFile /home/ppatel/clutter/odm/odm_ws/projC/odm_meshing/odm_25dmesh.ply
+	-maxVertexCount 100000
+Raster Size is 322x355
+Extent is (-107.638474, 63.923126), (-99.895386, 89.248614)
+NoData value: -9999
+Description: max
+Reading raster...
+Total vertices before simplification: 114310
+Blocks depth: 0
+Splitting area in 1
+Block size is 322, 355
+Processing block (0,0)
+Sampled 227268 faces, target is 200000
+Simplifying...
+Single quad tree level, saving to PLY
+Writing to file... done!

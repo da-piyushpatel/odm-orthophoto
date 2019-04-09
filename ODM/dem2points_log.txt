@@ -1,0 +1,204 @@
+Running with parameters:
+	--inputFile /home/ppatel/clutter/odm/odm_ws/proj4/odm_meshing/tmp/mesh_dsm.tif
+	--outputFile /home/ppatel/clutter/odm/odm_ws/proj4/odm_meshing/tmp/dsm_points.ply
+	--skirtHeightThreshold 1.500000
+	--skirtIncrements 0.200000
+	--skirtHeightCap 100.000000
+Raster Size is 1603x1371
+Extent is (-108.070099, 105.449501), (-98.232063, 84.385137)
+NoData value: -9999
+Calculating skirts... 1005251 vertices will be added
+Total vertices: 3191084
+Sampling and writing to file... done!
+Running with parameters:
+	--inputFile /home/ppatel/clutter/odm/odm_ws/proj5/odm_meshing/tmp/mesh_dsm.tif
+	--outputFile /home/ppatel/clutter/odm/odm_ws/proj5/odm_meshing/tmp/dsm_points.ply
+	--skirtHeightThreshold 1.500000
+	--skirtIncrements 0.200000
+	--skirtHeightCap 100.000000
+Raster Size is 802x686
+Extent is (-108.118088, 105.534712), (-98.254608, 84.495792)
+NoData value: -9999
+Calculating skirts... 465408 vertices will be added
+Total vertices: 1009644
+Sampling and writing to file... done!
+Running with parameters:
+	--inputFile /home/ppatel/clutter/odm/odm_ws/projA/odm_meshing/tmp/mesh_dsm.tif
+	--outputFile /home/ppatel/clutter/odm/odm_ws/projA/odm_meshing/tmp/dsm_points.ply
+	--skirtHeightThreshold 1.500000
+	--skirtIncrements 0.200000
+	--skirtHeightCap 100.000000
+Raster Size is 534x457
+Extent is (-108.129822, 105.470178), (-98.274002, 84.525998)
+NoData value: -9999
+Calculating skirts... 293621 vertices will be added
+Total vertices: 533711
+Sampling and writing to file... done!
+Running with parameters:
+	--inputFile /home/ppatel/clutter/odm/odm_ws/projB/odm_meshing/tmp/mesh_dsm.tif
+	--outputFile /home/ppatel/clutter/odm/odm_ws/projB/odm_meshing/tmp/dsm_points.ply
+	--skirtHeightThreshold 1.500000
+	--skirtIncrements 0.200000
+	--skirtHeightCap 100.000000
+Raster Size is 3341x2859
+Extent is (-108.136490, 105.431255), (-98.270950, 84.485764)
+NoData value: -9999
+Calculating skirts... 2117789 vertices will be added
+Total vertices: 11644924
+Sampling and writing to file... done!
+Running with parameters:
+	--inputFile /home/ppatel/clutter/odm/odm_ws/projA/odm_meshing/tmp/mesh_dsm.tif
+	--outputFile /home/ppatel/clutter/odm/odm_ws/projA/odm_meshing/tmp/dsm_points.ply
+	--skirtHeightThreshold 1.500000
+	--skirtIncrements 0.200000
+	--skirtHeightCap 100.000000
+Raster Size is 401x343
+Extent is (-108.096909, 105.555891), (-98.224274, 84.526126)
+NoData value: -9999
+Calculating skirts... 209588 vertices will be added
+Total vertices: 344171
+Sampling and writing to file... done!
+Running with parameters:
+	--inputFile /home/ppatel/clutter/odm/odm_ws/projC/odm_meshing/tmp/mesh_dsm.tif
+	--outputFile /home/ppatel/clutter/odm/odm_ws/projC/odm_meshing/tmp/dsm_points.ply
+	--skirtHeightThreshold 1.500000
+	--skirtIncrements 0.200000
+	--skirtHeightCap 100.000000
+Raster Size is 284x232
+Extent is (-119.825996, 107.374004), (-99.778465, 85.821535)
+NoData value: -9999
+Calculating skirts... 81936 vertices will be added
+Total vertices: 145776
+Sampling and writing to file... done!
+Running with parameters:
+	--inputFile /home/ppatel/clutter/odm/odm_ws/projC/odm_meshing/tmp/mesh_dsm.tif
+	--outputFile /home/ppatel/clutter/odm/odm_ws/projC/odm_meshing/tmp/dsm_points.ply
+	--skirtHeightThreshold 1.500000
+	--skirtIncrements 0.200000
+	--skirtHeightCap 100.000000
+Raster Size is 401x343
+Extent is (-108.025436, 105.547164), (-98.189804, 84.491996)
+NoData value: -9999
+Calculating skirts... 206743 vertices will be added
+Total vertices: 341326
+Sampling and writing to file... done!
+Running with parameters:
+	--inputFile /home/ppatel/clutter/odm/odm_ws/projC/odm_meshing/tmp/mesh_dsm.tif
+	--outputFile /home/ppatel/clutter/odm/odm_ws/projC/odm_meshing/tmp/dsm_points.ply
+	--skirtHeightThreshold 1.500000
+	--skirtIncrements 0.200000
+	--skirtHeightCap 100.000000
+Raster Size is 401x343
+Extent is (-108.025436, 105.547164), (-98.189804, 84.491996)
+NoData value: -9999
+Calculating skirts... 206743 vertices will be added
+Total vertices: 341326
+Sampling and writing to file... done!
+Running with parameters:
+	--inputFile /home/ppatel/clutter/odm/odm_ws/projC/odm_meshing/tmp/mesh_dsm.tif
+	--outputFile /home/ppatel/clutter/odm/odm_ws/projC/odm_meshing/tmp/dsm_points.ply
+	--skirtHeightThreshold 1.500000
+	--skirtIncrements 0.200000
+	--skirtHeightCap 100.000000
+Raster Size is 353x338
+Extent is (-97.823753, 84.465447), (-94.405037, 80.138163)
+NoData value: -9999
+Calculating skirts... 241846 vertices will be added
+Total vertices: 358412
+Sampling and writing to file... done!
+Running with parameters:
+	--inputFile /home/ppatel/clutter/odm/odm_ws/projC/odm_meshing/tmp/mesh_dsm.tif
+	--outputFile /home/ppatel/clutter/odm/odm_ws/projC/odm_meshing/tmp/dsm_points.ply
+	--skirtHeightThreshold 1.500000
+	--skirtIncrements 0.200000
+	--skirtHeightCap 100.000000
+Raster Size is 401x343
+Extent is (-108.046387, 105.606413), (-98.207619, 84.542781)
+NoData value: -9999
+Calculating skirts... 207080 vertices will be added
+Total vertices: 341663
+Sampling and writing to file... done!
+Running with parameters:
+	--inputFile /home/ppatel/clutter/odm/odm_ws/projC/odm_meshing/tmp/mesh_dsm.tif
+	--outputFile /home/ppatel/clutter/odm/odm_ws/projC/odm_meshing/tmp/dsm_points.ply
+	--skirtHeightThreshold 1.500000
+	--skirtIncrements 0.200000
+	--skirtHeightCap 100.000000
+Raster Size is 354x338
+Extent is (-97.835915, 84.969685), (-94.437904, 80.105296)
+NoData value: -9999
+Calculating skirts... 233756 vertices will be added
+Total vertices: 350656
+Sampling and writing to file... done!
+Running with parameters:
+	--inputFile /home/ppatel/clutter/odm/odm_ws/projC/odm_meshing/tmp/mesh_dsm.tif
+	--outputFile /home/ppatel/clutter/odm/odm_ws/projC/odm_meshing/tmp/dsm_points.ply
+	--skirtHeightThreshold 1.500000
+	--skirtIncrements 0.200000
+	--skirtHeightCap 100.000000
+Raster Size is 352x338
+Extent is (-97.819458, 83.953342), (-94.421463, 80.121737)
+NoData value: -9999
+Calculating skirts... 233201 vertices will be added
+Total vertices: 349433
+Sampling and writing to file... done!
+Running with parameters:
+	--inputFile /home/ppatel/clutter/odm/odm_ws/projC/odm_meshing/tmp/mesh_dsm.tif
+	--outputFile /home/ppatel/clutter/odm/odm_ws/projC/odm_meshing/tmp/dsm_points.ply
+	--skirtHeightThreshold 1.500000
+	--skirtIncrements 0.200000
+	--skirtHeightCap 100.000000
+Raster Size is 353x338
+Extent is (-97.819374, 84.469826), (-94.421371, 80.121829)
+NoData value: -9999
+Calculating skirts... 234309 vertices will be added
+Total vertices: 350875
+Sampling and writing to file... done!
+Running with parameters:
+	--inputFile /home/ppatel/clutter/odm/odm_ws/projC/odm_meshing/tmp/mesh_dsm.tif
+	--outputFile /home/ppatel/clutter/odm/odm_ws/projC/odm_meshing/tmp/dsm_points.ply
+	--skirtHeightThreshold 1.500000
+	--skirtIncrements 0.200000
+	--skirtHeightCap 100.000000
+Raster Size is 354x338
+Extent is (-97.870003, 85.006397), (-94.469673, 80.141127)
+NoData value: -9999
+Calculating skirts... 235082 vertices will be added
+Total vertices: 351982
+Sampling and writing to file... done!
+Running with parameters:
+	--inputFile /home/ppatel/clutter/odm/odm_ws/projC/odm_meshing/tmp/mesh_dsm.tif
+	--outputFile /home/ppatel/clutter/odm/odm_ws/projC/odm_meshing/tmp/dsm_points.ply
+	--skirtHeightThreshold 1.500000
+	--skirtIncrements 0.200000
+	--skirtHeightCap 100.000000
+Raster Size is 199x219
+Extent is (-98.057922, 61.142078), (-94.624016, 80.575984)
+NoData value: -9999
+Calculating skirts... 88699 vertices will be added
+Total vertices: 130624
+Sampling and writing to file... done!
+Running with parameters:
+	--inputFile /home/ppatel/clutter/odm/odm_ws/bluefx/odm_meshing/tmp/mesh_dsm.tif
+	--outputFile /home/ppatel/clutter/odm/odm_ws/bluefx/odm_meshing/tmp/dsm_points.ply
+	--skirtHeightThreshold 1.500000
+	--skirtIncrements 0.200000
+	--skirtHeightCap 100.000000
+Raster Size is 256x239
+Extent is (-106.034088, 98.765912), (-85.653046, 105.546954)
+NoData value: -9999
+Calculating skirts... 34140 vertices will be added
+Total vertices: 93360
+Sampling and writing to file... done!
+Running with parameters:
+	--inputFile /home/ppatel/clutter/odm/odm_ws/bluefx/odm_meshing/tmp/mesh_dsm.tif
+	--outputFile /home/ppatel/clutter/odm/odm_ws/bluefx/odm_meshing/tmp/dsm_points.ply
+	--skirtHeightThreshold 1.500000
+	--skirtIncrements 0.200000
+	--skirtHeightCap 100.000000
+Raster Size is 47x103
+Extent is (-55.478470, -17.878470), (-41.995083, 40.404917)
+NoData value: -9999
+Calculating skirts... 8181 vertices will be added
+Total vertices: 12438
+Sampling and writing to file... done!

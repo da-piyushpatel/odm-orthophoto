@@ -1,0 +1,54 @@
+/home/ppatel/clutter/odm/ODM/build/bin/odm_orthophoto_log.txt
+
+Arguments given
+-inputFile
+/home/ppatel/clutter/odm/odm_ws/bluefx/odm_texturing_25d/odm_textured_model.obj
+-logFile
+/home/ppatel/clutter/odm/odm_ws/bluefx/odm_orthophoto/odm_orthophoto_log.txt
+-outputFile
+/home/ppatel/clutter/odm/odm_ws/bluefx/odm_orthophoto/odm_orthophoto.png
+-resolution
+5.0
+-outputCornerFile
+/home/ppatel/clutter/odm/odm_ws/bluefx/odm_orthophoto/odm_orthophoto_corners.txt
+
+Reading textured mesh from: /home/ppatel/clutter/odm/odm_ws/bluefx/odm_texturing_25d/odm_textured_model.obj
+Log file path was set to: /home/ppatel/clutter/odm/odm_ws/bluefx/odm_orthophoto/odm_orthophoto_log.txt
+Writing output to: /home/ppatel/clutter/odm/odm_ws/bluefx/odm_orthophoto/odm_orthophoto.png
+Resolution count was set to: 5pixels/meter
+Writing corners to: /home/ppatel/clutter/odm/odm_ws/bluefx/odm_orthophoto/odm_orthophoto_corners.txt
+
+Reading mesh file...
+.. mesh file read.
+
+Number of faces in the model 38628
+Set boundary to contain entire model.
+Local boundary points:
+Point 1: -54.6397 -42.1676
+Point 2: -54.6397 40.7037
+Point 3: -20.2347 40.7037
+Point 4: -20.2347 -42.1676
+
+Ortho photo bounds x : -54.6397 -> -20.2347
+Ortho photo bounds y : -42.1676 -> 40.7037
+Ortho photo area : 2851.18m2
+Ortho photo resolution, width x height : 173x415
+Translating and scaling mesh...
+.. mesh translated and scaled.
+
+Rendering the ortho photo...
+Warning: Sliver polygon found at face index 6553
+Warning: Sliver polygon found at face index 6555
+Material 0 rendered.
+Material 1 rendered.
+Material 2 rendered.
+Material 3 rendered.
+Warning: Sliver polygon found at face index 38451
+Warning: Sliver polygon found at face index 38587
+Warning: Sliver polygon found at face index 38588
+Material 4 rendered.
+...ortho photo rendered
+
+Writing ortho photo to /home/ppatel/clutter/odm/odm_ws/bluefx/odm_orthophoto/odm_orthophoto.png
+Writing corner coordinates to /home/ppatel/clutter/odm/odm_ws/bluefx/odm_orthophoto/odm_orthophoto_corners.txt
+Orthophoto generation done.
